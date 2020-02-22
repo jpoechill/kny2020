@@ -41,7 +41,7 @@ module.exports = {
       {
         rel: "stylesheet",
         type: "text/css",
-        href: "https://fonts.googleapis.com/css?family=Cabin&display=swap"
+        href: "https://fonts.googleapis.com/css?family=Cabin:700,900&display=swap"
       }
     ],
     script: [

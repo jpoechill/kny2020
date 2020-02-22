@@ -42,7 +42,8 @@
           <div class="col-md-12 pt-4 d-flex justify-content-center align-items-center text-white">
             <div class="bg-opague text-center px-5 py-3">
               <h1>
-                Join us on March 28th
+                <b>Cambodian New Year 2020</b><br>
+                <span>Join us on March 28th</span>
               </h1>
             </div>
           </div>
@@ -53,7 +54,7 @@
       <div class="row pt-4 pb-1">
         <div class="offset-md-2 col-md-8 text-center px-5">
           <h4>
-            We sincerely invite you to join us for the 30th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games.
+            We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games.
           </h4>
         </div>
       </div>
@@ -109,10 +110,10 @@
               Dancing and Games <br><br>
             </h4>
             March 28th, 2020<br>
-            6pm-10pm<br><br>
+            Performances start at 5pm<br><br>
 
             LDS (Mormon) Temple<br>
-            4770 Lincoln Drive<br>
+            4770 Lincoln Ave.<br>
             Oakland CA 94602<br><br>
             <a href="https://instagram.com/cnyoakland2020" target="_blank">
               <img src="/ig-logo.png" class="py-5 ig-logo" alt="">
