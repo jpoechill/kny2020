@@ -1,10 +1,18 @@
 <template>
   <div>
-    <div class="container pt-5">
+    <!-- <img src="angkor-ani.gif" class="h-100" alt=""> -->
+    <!-- <div class="container pt-5">
       <div class="row">
         <div class="col-md-12 text-center">
           Cambodian New Year 2020 <br><br>
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+              <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              <li data-target="#carouselExampleControls" data-slide-to="3"></li>
+              <li data-target="#carouselExampleControls" data-slide-to="4"></li>
+            </ol>
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <img src="/performer-01.jpg"  class="d-block mx-auto" alt="First slide">
@@ -32,7 +40,12 @@
             </a>
           </div>
         </div>
-      </div>
+      </div> -->
+      <!-- <div class="row">
+        <div class="col-md-12 pt-4 text-center">
+          © 2020
+        </div>
+      </div> -->
     </div>
   </div>
 </template>
@@ -43,7 +56,19 @@ export default {
 </script>
 
 <style>
+body, html {
+  height: 100%;
+}
+
+body {
+  background-image: url("/angkor.gif");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 img {
-  max-height: 500px;
+  /* max-height: 500px; */
 }
 </style>
