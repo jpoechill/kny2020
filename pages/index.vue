@@ -113,7 +113,7 @@
 
             LDS (Mormon) Temple<br>
             4770 Lincoln Drive<br>
-            Oakland Ca 94602<br><br>
+            Oakland CA 94602<br><br>
             <a href="https://instagram.com/cnyoakland2020" target="_blank">
               <img src="/ig-logo.png" class="py-5 ig-logo" alt="">
             </a>
