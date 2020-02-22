@@ -2,14 +2,36 @@
   <div>
     <div class="container pt-5">
       <div class="row">
-        <div class="offset-md-3 col-md-6 text-center">
-          <img src="/performer-01.jpg" alt="">
+        <div class="col-md-12 text-center">
+          Cambodian New Year 2020 <br><br>
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="/performer-01.jpg"  class="d-block mx-auto" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img src="/performer-02.jpg" class="d-block mx-auto" alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img src="/performer-03.jpg" class="d-block mx-auto" alt="Third slide">
+              </div>
+              <div class="carousel-item">
+                <img src="/performer-04.jpg" class="d-block mx-auto" alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img src="/performer-05.jpg" class="d-block mx-auto" alt="Third slide">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
         </div>
-        <!-- <div class="col-md-7"> -->
-          <!-- <h1>Khmer New Year 2020</h1> <br><br>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex modi obcaecati id expedita nostrum minima? Velit ipsa dolorum repudiandae id, consequuntur quibusdam reprehenderit expedita omnis nobis quidem eius laborum repellendus quod. Nostrum corporis eveniet ullam molestias soluta cupiditate, tempora maxime.
-          <br><br> -->
-        <!-- </div> -->
       </div>
     </div>
   </div>
