@@ -17,18 +17,18 @@ module.exports = {
         hid: "description",
         name: "description",
         content:
-          "We sincerely invite you to join us for the 30th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games."
+          "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games."
       },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "https://kny2020.com/" },
       { property: "og:title", content: "Khmer New Year 2020 | Oakland, CA" },
-      { property: "og:description", content: "We sincerely invite you to join us for the 30th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games." },
+      { property: "og:description", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games." },
       { property: "og:image", content: "http://kny2020.com/performer-05.jpg" },
       { property: "og:image:secure_url", content: "https://kny2020.com/performer-05.jpg" },
       { property: "twitter:card", content: "summary_large_image" },
       { property: "twitter:url", content: "https://kny2020.com/" },
       { property: "twitter:title", content: "Khmer New Year 2020 | Oakland, CA" },
-      { property: "twitter:description", content: "We sincerely invite you to join us for the 30th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games." },
+      { property: "twitter:description", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games." },
       { property: "twitter:image", content: "https://kny2020.com/performer-05.jpg" }
     ],
     link: [
