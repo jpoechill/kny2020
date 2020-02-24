@@ -38,7 +38,7 @@
 
     <div class="hero-bg mt-3 pt-5">
       <div class="container mt-4 py-5">
-        <div class="row mt-5 pt-5">
+        <div class="row mt-5 pt-3">
           <div class="col-md-12 pt-3 d-flex justify-content-center align-items-center text-white">
             <div class="bg-opague text-center px-5 py-3">
               <h1>
@@ -50,6 +50,7 @@
         </div>
       </div>
     </div>
+    
     <div class="container my-5 pt-5">
       <div class="row pt-4 pb-1">
         <div class="offset-md-2 col-md-8 text-center px-5">
@@ -114,7 +115,7 @@
 
             LDS (Mormon) Temple<br>
             4770 Lincoln Ave.<br>
-            Oakland CA 94602<br><br>
+            Oakland, CA 94602<br><br>
             <a href="https://instagram.com/cnyoakland2020" target="_blank">
               <img src="/ig-logo.png" class="py-5 ig-logo" alt="">
             </a>
