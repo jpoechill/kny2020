@@ -38,7 +38,20 @@
 
     <div class="hero-bg mt-3 pt-5">
       <div class="container mt-4 py-5">
-        <div class="row mt-5 pt-3">
+        <!-- Padding Desktop -->
+        <div class="row mt-5 pt-5 d-none d-md-block">
+          <div class="col-md-12 pt-3 d-flex justify-content-center align-items-center text-white">
+            <div class="bg-opague text-center px-5 py-3">
+              <h1>
+                <b>Cambodian New Year 2020</b><br>
+                <span>Join us on March 28th</span>
+              </h1>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Padding Mobile -->
+        <div class="row mt-5 pt-3 d-md-none">
           <div class="col-md-12 pt-3 d-flex justify-content-center align-items-center text-white">
             <div class="bg-opague text-center px-5 py-3">
               <h1>
