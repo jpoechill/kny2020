@@ -73,10 +73,12 @@
         </div>
       </div>
     </div>
-    <div class="container my-5 pt-5">
-      <div class="row py-5 text-center">
+
+    <!-- Section Desktop -->
+    <div class="container my-5 py-3 d-none d-md-block">
+      <div class="row text-center py-5">
         <div class="col-md-6">
-          <img src="/performer-02-sqr.png" class="w-75 pb-5" alt="">
+          <img src="/performer-02-sqr.png" class="w-75" alt="">
         </div>
         <div class="col-md-6 d-flex align-items-center px-5">
           <h4>
@@ -86,8 +88,22 @@
       </div>
     </div>
 
+    <!-- Section Mobile -->
+    <div class="container my-5 py-3 d-md-none">
+      <div class="row text-center py-5">
+        <div class="col-md-6">
+          <img src="/performer-02-sqr.png" class="w-75" alt="">
+        </div>
+        <div class="col-md-6 d-flex align-items-center pt-5 px-5">
+          <h4>
+            Sit and enjoy performances by local youth and Cambodian organizations throughout the Bay Area of California.
+          </h4>
+        </div>
+      </div>
+    </div>
+
     <!-- Section Desktop -->
-    <div class="container my-5 py-3 d-none d-md-block">
+    <div class="container my-5 py-3 pb-4 d-none d-md-block">
       <div class="row text-center py-5">
         <div class="col-md-6 d-flex align-items-center px-5">
           <h4>
@@ -101,7 +117,7 @@
     </div>
 
     <!-- Section Mobile -->
-    <div class="container my-5 py-3 d-md-none">
+    <div class="container my-5 py-3 pb-4 d-md-none">
       <div class="row text-center py-5">
         <div class="col-md-6">
           <img src="/performer-04-sqr.png" class="w-75" alt="">
