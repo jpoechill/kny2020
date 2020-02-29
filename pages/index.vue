@@ -130,6 +130,21 @@
       </div>
     </div>
 
+    <div class="w-100">
+      <div class="container pb-5 my-5">
+        <div class="row pt-5 mb-5">
+          <div class="col-md-12 text-center">
+            <h4>Leaders and Teachers</h4><br><br>
+            <img class="avatar" src="/avatars/teacher-01.png" alt="">
+            <img class="avatar" src="/avatars/teacher-02.png" alt="">
+            <img class="avatar" src="/avatars/teacher-03.png" alt="">
+            <img class="avatar" src="/avatars/teacher-04.png" alt="">
+            <img class="avatar" src="/avatars/teacher-05.png" alt="">
+            <img class="avatar" src="/avatars/teacher-06.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div ref="location-address" class="w-100 bg-light">
       <div class="container py-5">
@@ -156,7 +171,11 @@
       <div class="container py-5 text-white">
         <div class="row">
           <div class="col-md-12 text-center">
-            Oakland Cambodian Dance Troupe <br>
+            In Partnership With <br><br>
+            Khmer Youth of Modesto<br>
+            Morodok Khmer of Stockton<br>
+            United Khmer Culture Preservation of Fresno<br>
+            Khmer Angkor Dance Troupe of Oakland<br><br>
             © 2020
           </div>
         </div>
@@ -195,6 +214,11 @@ body, html {
 
 .hero-bg .row, .hero-bg .row .col-md-12 {
   height: 100%;
+}
+
+.avatar {
+  max-width: 150px;
+  margin: 15px;
 }
 
 h4 {
