@@ -221,6 +221,14 @@ body, html {
   margin: 15px;
 }
 
+/* When screen width is 600px or less */
+@media only screen and (max-width: 600px) {
+  .avatar {
+    max-width: 100px;
+    margin: 15px;
+  };
+}
+
 h4 {
   line-height: 38px;
 }
