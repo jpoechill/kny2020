@@ -2,15 +2,16 @@
   <div>
     <!-- Header Desktop -->
     <div class="sticky w-100 bg-dark d-none d-md-block">
-      <div class="container text-white pt-4 pb-3">
+      <div class="container text-white pt-3 pb-3">
         <div class="row">
           <div class="col-md-6">
-            <h4 class="font-default">
+            <!-- <h4 class="font-default">
               KNY2020
-            </h4>
+            </h4> -->
+            <img src="logo.png" style="max-width: 50px;" alt="">
           </div>
           <div class="col-md-6 text-right">
-            <button @click="scrollToAddress()" class="py-1 px-4">
+            <button @click="scrollToAddress()" class="py-1 mt-2 px-4">
               SEE ADDRESS
             </button>
           </div>
@@ -23,9 +24,10 @@
       <div class="container text-white pt-3 pb-4">
         <div class="row">
           <div class="col-md-12 pb-1 text-center">
-            <h4 class="font-default">
+            <!-- <h4 class="font-default">
               KNY2020
-            </h4>
+            </h4> -->
+            <img src="logo.png" class="m-3" style="max-width: 60px;" alt="">
           </div>
           <div class="col-md-12 text-center">
             <button @click="scrollToAddress()" class="w-75 py-1 px-4">
@@ -246,7 +248,7 @@ h4 {
 }
 
 .bg-opague {
-  background-color: rgba(17, 17, 17, .4);
+  background-color: rgba(23, 2, 73, .4);
 }
 
 button {
