@@ -142,7 +142,6 @@
             <img class="avatar" src="/avatars/teacher-03.png" alt="">
             <img class="avatar" src="/avatars/teacher-04.png" alt="">
             <img class="avatar" src="/avatars/teacher-05.png" alt="">
-            <img class="avatar" src="/avatars/teacher-06.png" alt="">
           </div>
         </div>
       </div>
