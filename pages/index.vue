@@ -187,6 +187,11 @@
 
 <script>
 export default {
+  mounted() {
+    setTimeout(() => {
+      alert('Unfortunately, this event has been post-poned due to: \n\nCORONA-VIRUS \n\nWe apologize for the inconvenience and hope to update you as new information is received.')
+    }, 2000)
+  },
   methods: {
     scrollToAddress: function () {
       let elTopPos = this.$refs['location-address'].getBoundingClientRect().top
