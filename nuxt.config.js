@@ -17,12 +17,12 @@ module.exports = {
         hid: "description",
         name: "description",
         content:
-          "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, through Zoom. Join us for an afternoon of good company and of viewing tradition dance performances."
+          "Join us for the 24th annual celebration of Cambodian (Khmer) New Year!"
       },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "https://khmerangkor.net" },
       { property: "og:title", content: "Khmer Angkor | Virtual Khmer New Year 2021" },
-      { property: "og:description", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, through Zoom. Join us for an afternoon of good company and of viewing tradition dance performances at the convenience of your location!" },
+      { property: "og:description", content: "Join us for the 24th annual celebration of Cambodian (Khmer) New Year!" },
       { property: "og:image", content: "https://khmerangkor.net/cover_040621.png" },
       { property: "og:image:secure_url", content: "https://khmerangkor.net/cover_040621.png" },
       { property: "twitter:card", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, through Zoom. Join us for an afternoon of good company and of viewing tradition dance performances at the convenience of your location!" },
