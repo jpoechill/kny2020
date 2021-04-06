@@ -23,13 +23,13 @@ module.exports = {
       { property: "og:url", content: "https://khmerangkor.net" },
       { property: "og:title", content: "Khmer Angkor | Virtual Khmer New Year 2021" },
       { property: "og:description", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, through Zoom. Join us for an afternoon of good company and of viewing tradition dance performances at the convenience of your location!" },
-      { property: "og:image", content: "/cover_040621.png" },
-      // { property: "og:image:secure_url", content: "https://kny2020.com/performer-05.jpg" },
-      // { property: "twitter:card", content: "summary_large_image" },
-      // { property: "twitter:url", content: "https://kny2020.com/" },
-      // { property: "twitter:title", content: "Khmer New Year 2020 | Oakland, CA" },
-      // { property: "twitter:description", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, at the LDS Oakland California Temple. Join us for a night complete with traditional dance performances, music, food and games." },
-      // { property: "twitter:image", content: "https://kny2020.com/performer-05.jpg" }
+      { property: "og:image", content: "https://khmerangkor.net/cover_040621.png" },
+      { property: "og:image:secure_url", content: "https://khmerangkor.net/cover_040621.png" },
+      { property: "twitter:card", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, through Zoom. Join us for an afternoon of good company and of viewing tradition dance performances at the convenience of your location!" },
+      { property: "twitter:url", content: "https://khmerangkor.net" },
+      { property: "twitter:title", content: "Khmer Angkor | Virtual Khmer New Year 2021" },
+      { property: "twitter:description", content: "We sincerely invite you to join us for the 24th annual celebration of Cambodian (Khmer) New Year celebration, hosted by the Oakland Cambodian Dance Troupe, through Zoom. Join us for an afternoon of good company and of viewing tradition dance performances at the convenience of your location!" },
+      { property: "twitter:image", content: "https://khmerangkor.net/cover_040621.png" }
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
