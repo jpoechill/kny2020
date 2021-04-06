@@ -16,7 +16,7 @@
 <script>
 export default {
   mounted() {
-    window.location.href = 'https://zoom.us/j/96024579961?pwd=WXhyUVM0NmlOdmY5ZEt5dmN3VzMzUT09'
+    // window.location.href = 'https://zoom.us/j/96024579961?pwd=WXhyUVM0NmlOdmY5ZEt5dmN3VzMzUT09'
   },
 }
 </script>
