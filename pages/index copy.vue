@@ -208,11 +208,11 @@ export default {
 </script>
 
 <style>
-body, html {
+/* body, html {
   font-family: 'Cabin', 'Helvetica';
   letter-spacing: 1px;
   scroll-behavior: smooth;
-}
+} */
 
 .hero-bg {
   background: url('/performer-05-hero.png') no-repeat center center; 
